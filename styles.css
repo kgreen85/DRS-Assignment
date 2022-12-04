@@ -4,6 +4,15 @@
     /* border: 1px solid red; */
 }
 
+.container {
+    background-color: white;
+    color: black;
+}
+
+.toggle {
+    
+}
+
 .dark-mode {
     background-color: black;
     color: white;
